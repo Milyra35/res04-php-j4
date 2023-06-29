@@ -1,4 +1,5 @@
-Champs pour la page Accueil :
-    - id
-    - content
-    - route
+Champs pour la table Page :
+    - id = "1"
+    - name = "accueil"
+    - content = "Blabla"
+    - route = "home"

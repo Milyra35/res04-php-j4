@@ -1,5 +1,4 @@
-Champs pour la page CV :
+Champs pour la table CV :
     - id
     - title
-    - description
-    - projet_id
+    - content

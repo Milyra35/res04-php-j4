@@ -1,4 +1,4 @@
-Champs pour la page Projets :
+Champs pour la table Projets :
     - id
     - name
     - description

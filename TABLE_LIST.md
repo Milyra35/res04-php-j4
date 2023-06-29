@@ -1,6 +1,6 @@
-Pages pour projet :
-    - Accueil
+Lignes dans table Page :
+    - Pages
     - CV
-    - Projets
-    - Détails projets
+    - Projects
+    - Pictures
     - Contact

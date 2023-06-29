@@ -1,3 +1,4 @@
-Champs pour la page Contact : 
+Champs pour la table Contact : 
     - id
-    - 
+    - email
+    - message
